@@ -82,15 +82,15 @@ I build <b>responsive and interactive web applications</b> using modern technolo
 <div align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Your_Profile-blue?style=for-the-badge&logo=linkedin"/>
+<img src="[https://img.shields.io/badge/LinkedIn-Your_Profile-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/murali-shankar-karri-1600a3389/)"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+<img src="muralishankar713@gmail.com"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-Your_ID-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://www.instagram.com/vincentius__inc?stkn=MXJldWl5NjBiMm5jdA%3D%3D"/>
 </a>
 
 </div>
